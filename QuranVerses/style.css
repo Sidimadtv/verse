@@ -172,7 +172,7 @@ video{
 .actions span::after{
     content: '';
     position: absolute;
-    bottom: -54px;
+    bottom: -14px;
     left: 50%;
     transform: translateX(-50%);
     width: 145px;
