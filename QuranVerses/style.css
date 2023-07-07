@@ -33,7 +33,7 @@ body{
     background-size: cover;
     position: relative;
    cursor:pointer;
-font-family: 'Reem Kufi';font-style: normal;font-weight: 500;
+font-family: 'Amiri Quran', serif;
     transition: 0.5s;
 }
 
@@ -76,7 +76,7 @@ video{
 
 #time{
     font-size: 35px;
-    font-family: 'Poppins', sans-serif;
+   font-family: 'Amiri Quran', serif;
 }
 
 .ayah{
